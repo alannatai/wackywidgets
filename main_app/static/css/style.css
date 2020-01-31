@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin: 2rem;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
+
+table {
+  margin: 2rem auto;
+}
+
+table a {
+  color: red;
+  text-decoration: none;
+}
+
+tfoot {
+  font-weight: bold;
+}
